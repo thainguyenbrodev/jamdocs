@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/abc.md
 - docs/editing-in-forestry.md
